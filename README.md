@@ -1,0 +1,1 @@
+Realizar una pequeña pagina en el lenguaje que ud desee que me permita vizualizar en el telefono para registro de consultas medica el cual me especifique el nombre del doctor, especialidad, fecha, dia, hora... una vez que me haya registrado como paciente.
